@@ -23,8 +23,4 @@ function countdown() {
     elseconds.innerHTML = seconds;
 }
 
-
-
 countdown();
-
-setInterval(countdown, 1000);
