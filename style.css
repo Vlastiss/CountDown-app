@@ -13,14 +13,16 @@ body {
 h1,h2 {
     font-size: 3rem;
     font-weight: 600;
+    color: white;
 }
 span {
-    background-color: beige;
+    /* background-color: aliceblue; */
     padding: 20px;
     text-align: center;
     border-radius: 20px;
-    font-size:3.5rem;
+    font-size:4.5rem;
     font-weight: 600;
+    color: white;
 }
 
 i {
@@ -28,7 +30,9 @@ i {
 }
 
 .time-container {
-    margin-top: 20px;
+    margin-top: 300px;
+    background-color: rgba(0, 0, 0, 0.396);
+    border-radius: 10px;
 }
 
 .time-container div {
@@ -37,5 +41,6 @@ i {
 
 .mt-3 {
     font-size: 2rem;
-    color: rgb(33, 255, 33);
+    color: white(0, 0, 0);
+    border-radius: 30px;
 }
