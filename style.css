@@ -11,7 +11,7 @@ body {
     background-attachment: fixed;
 }
 h1,h2 {
-    font-size: 3rem;
+    font-size: 1rem;
     font-weight: 600;
     color: white;
 }
@@ -20,7 +20,7 @@ span {
     padding: 20px;
     text-align: center;
     border-radius: 20px;
-    font-size:4.5rem;
+    font-size:1.5rem;
     font-weight: 600;
     color: white;
 }
@@ -40,7 +40,7 @@ i {
 }
 
 .mt-3 {
-    font-size: 2rem;
+    font-size: 1rem;
     color: white(0, 0, 0);
     border-radius: 30px;
 }
