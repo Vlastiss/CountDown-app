@@ -10,3 +10,32 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
+h1,h2 {
+    font-size: 3rem;
+    font-weight: 600;
+}
+span {
+    background-color: beige;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    font-size:3.5rem;
+    font-weight: 600;
+}
+
+i {
+    color: red;
+}
+
+.time-container {
+    margin-top: 20px;
+}
+
+.time-container div {
+    margin-top: 20px;
+}
+
+.mt-3 {
+    font-size: 2rem;
+    color: rgb(33, 255, 33);
+}
